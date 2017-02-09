@@ -1,0 +1,6 @@
+# C
+*.o
+exe*x
+
+# Vim
+*.swp
